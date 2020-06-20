@@ -8,19 +8,6 @@
 
 2019.09~2019.12
 
-# Ingame
-![SelectMap](https://user-images.githubusercontent.com/24224903/79640244-7b961900-81cb-11ea-9ba0-6ea94fbf5c1d.gif)
+# YoutubeLink
 
-맵 선택
-
-![BattleStart](https://user-images.githubusercontent.com/24224903/79640243-7933bf00-81cb-11ea-9441-1dba3b6b2b1c.gif)
-
-전투 시작
-
-![Battle_Attack](https://user-images.githubusercontent.com/24224903/79640238-73d67480-81cb-11ea-9422-2645b4cd50ad.gif)
-
-공격
-
-![Battle_GuardAndAttack](https://user-images.githubusercontent.com/24224903/79640242-7769fb80-81cb-11ea-86b1-5664fa624aaa.gif)
-
-방어 및 공격
+[![VIDEO](https://img.youtube.com/vi/VX9ijdqR2sE/0.jpg)](https://www.youtube.com/watch?v=VX9ijdqR2sE?t=0s)
